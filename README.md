@@ -7,6 +7,8 @@ This project was created to fulfill an assignment for The Iron Yard Charleston's
 
 ----------------------------------
 
+Week 3, Day 1
+
 Javascript - Time To Read
 We'll build a simple component for estimating how long a web page should take to read.
 
